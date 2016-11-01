@@ -1,0 +1,72 @@
+﻿***QUESTION 1 ***
+
+***QUESTION 2 ***
+ 
+***QUESTION 3 : Create table Address, which contains (ID, StudentID, Street, City, PostaCode, PhoneNumber, Email)Make surethat ID is generated automaticallyCreate foreign key referencing student table. Make sure that address is deleted when student is delete.***
+ 
+***QUESTION 4 : Create Course table containing (ID, Name, CourseCode, Description)Make Sure that ID is generated using identity.***
+ 
+***QUESTION 5 : Create a lookup table Semester with fields (ID, Description), where ID is a char(3) field using the same rules as semester ID in SIS database (F09 for Fall 2009)Create a primary key constraint for ID field.***
+ 
+***QUESTION 6 : Create a connection table(StudentCourse), which will record which student had which courses in which semester using the following fields (StudentID, CourseID, SemesterID, Mark)Create Primary Key constraint using all three id key fields in the tableCreate Foreign Key Constraints for all three id keys referencing proper tables(Student, Course, Semester)Make sure that when the record for each course is created, the default value for the mark is 0 (Zero).***
+ 
+***QUESTION 7 : Insert Records for Three Students into the student table. The names of the students are Carey Mahoney, Moses Hightower and Debbie Callahan.***
+ 
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+***QUESTION 8 : Using IDs of the students insert their home and local addresses into the Address table. Use Google Maps to get street and city names. Do not insert gibberish.***
+ 
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+***QUESTION 9 : Insert 4 courses into the Course table. You can use your own courses as a reference for names and course codes.***
+ 
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+***QUESTION 10 : Insert records for Fall 2015, Winter 2016 and Summer 2016 Semester.***
+ 
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+***QUESTION 11 : Enroll students into courses by inserting proper records into the StudentCourse table. Use 2 courses per student. Enroll all of them into Fall 2015 semester. Do not give them marks.***
+ 
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+***QUESTION 12 : Update marks for all courses for Moses Hightower, giving him grades of your choice.***
+ 
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+***QUESTION 13 : Delete all records for Debbie Callahan in the proper order. Make sure, that you do not use extra delete operations where cascade delete was specified.***
+ 
+
+(2 row(s) affected)
+
+(1 row(s) affected)

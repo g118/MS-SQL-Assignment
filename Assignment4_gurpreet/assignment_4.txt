@@ -1,0 +1,64 @@
+--QUESTION 1--
+
+(0 row(s) affected)
+
+(0 row(s) affected)
+--QUESTION 2--
+
+(4 row(s) affected)
+--QUESTION 3--
+
+(8 row(s) affected)
+--QUESTION 4--
+
+(44 row(s) affected)
+--QUESTION 5--
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+--QUESTION 6--
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+--QUESTION 7--
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+--QUESTION 8--
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+--QUESTION 9--
+Name- Gurpreet Singh
+Student no. - 7557259
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+--QUESTION 10--
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+--QUESTION 11--
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+--QUESTION 12--
+
+(1 row(s) affected)
+
+(1 row(s) affected)
