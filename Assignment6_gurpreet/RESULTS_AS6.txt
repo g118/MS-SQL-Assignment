@@ -1,0 +1,109 @@
+NAME- GURPREET SINGH, ST. NO. - 7557259
+
+Command(s) completed successfully.
+Command(s) completed successfully.
+Command(s) completed successfully.
+Command(s) completed successfully.
+Command(s) completed successfully.
+Command(s) completed successfully.
+Command(s) completed successfully.
+
+INSERTING VALUES
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+(1 row(s) affected)
+
+
+Command(s) completed successfully.
+
+
+CUTOMER                                                                                                                                                                                                                                                         JOB                                                                                                                                                                                                                                                             TIMETOMANUFACTURE_TIME
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------
+SUZUKI                                                                                                                                                                                                                                                          CRANKSHAFT                                                                                                                                                                                                                                                      45
+SUZUKI                                                                                                                                                                                                                                                          CRANKSHAFT                                                                                                                                                                                                                                                      40
+SUZUKI                                                                                                                                                                                                                                                          PISTON                                                                                                                                                                                                                                                          20
+SUZUKI                                                                                                                                                                                                                                                          PISTON                                                                                                                                                                                                                                                          15
+SUZUKI                                                                                                                                                                                                                                                          EXHAUST                                                                                                                                                                                                                                                         45
+SUZUKI                                                                                                                                                                                                                                                          CRANKSHAFT                                                                                                                                                                                                                                                      25
+
+(6 row(s) affected)
+
+
+Command(s) completed successfully.
+
+
+PARTSNUMBER_ID PARTS_NO                                                                                                                                                                                                                                                        PARTSNAME_ID PARTSNAME_NAME
+-------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1              MOTO001                                                                                                                                                                                                                                                         1            CRANKSHAFT
+2              MOTO002                                                                                                                                                                                                                                                         2            PISTON
+3              CAR001                                                                                                                                                                                                                                                          2            PISTON
+5              MOTO003                                                                                                                                                                                                                                                         3            EXHAUST
+6              CAR003                                                                                                                                                                                                                                                          1            CRANKSHAFT
+
+(5 row(s) affected)
+
+
